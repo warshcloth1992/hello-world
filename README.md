@@ -1,2 +1,3 @@
 # hello-world
-honor your time
+honor thyn own time
+I don't honor mime own time
